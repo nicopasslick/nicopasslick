@@ -1,4 +1,4 @@
-### Hi, I'm Nico 👋🏻
+## Hi, I'm Nico 👋🏻
 
 I'm a student of Information Systems (Computer Science + Business Administration) at the University of Münster in Germany and a Full-Stack Developer with experience in many fields. I am passionate about everything computer-related, whether it is software-wise or hardware-wise. You can check out my projects on [🚀 Passlick Development](https://passlickdev.com).
 
