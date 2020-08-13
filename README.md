@@ -4,7 +4,7 @@ I'm a student of Information Systems (Computer Science + Business Administration
 
 ### Links
 - [💼 Business](https://passlickdev.com) and [🔥 Personal](https://nico.passlick.xyz) Homepage
-- [👩🏻‍💻 Passlick Development @ GitHub](https://github.com/passlickdevcom) ← most of my projects will be here!
+- [👩🏻‍💻 Passlick Development @ GitHub](https://github.com/passlickdev) ← most of my projects will be here!
 - [🎯 Personal LinkedIn](https://www.linkedin.com/in/nico-passlick/)
 - [✉ Contact me via Mail](mailto:np@passlickdev.com) 
 
